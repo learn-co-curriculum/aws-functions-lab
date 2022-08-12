@@ -1,5 +1,12 @@
 # Functions Lab
 
+## Learning Goals
+
+- Define functions using function declaration
+- Define functions using function expression 
+- Define functions with parameters 
+- Define functions with default arguments
+
 ## Introduction
 
 Functions are are important concept in not just JavaScript, but programming 
