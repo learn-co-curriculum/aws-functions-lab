@@ -20,7 +20,7 @@ as you go with `npm test`.
 
 ## The Problems
 
-Define a function called `saturdayFun` using **function declaration**:
+**Define a function called `saturdayFun` using _function declaration_**:
 
 - It has one parameter that expects a string
 - It uses a default argument, `'roller-skate'` when no argument are passed.
@@ -28,7 +28,7 @@ Define a function called `saturdayFun` using **function declaration**:
 - It returns a string like `"This Saturday, I want to ...!"` where the `...`
 should be filled in with whatever is passed in as the first argument.
 
-Define a function called `mondayWork` using **function declaration**:
+**Define a function called `mondayWork` using _function declaration_**:
 
 - It has one parameter that expects a string
 - It uses a default argument, `'go to the office'` when no arguments are passed.
@@ -36,7 +36,7 @@ Define a function called `mondayWork` using **function declaration**:
 - It returns a string like `"This Monday, I will ..."` where the `...`
 should be filled in with whatever is passed in as the first argument.
 
-Define a function called `wednesdaySleep` using a **function expression**: 
+**Define a function called `wednesdaySleep` using a _function expression_**: 
 
 - It has two parameters, both expect a string
 - It uses a default argument for both parameters when no arguments are passed.
@@ -47,15 +47,14 @@ Define a function called `wednesdaySleep` using a **function expression**:
 to bed ..."` where the `...`'s should be filled in with the first and second 
 parameter respectively.
 
-Define a function called `favoriteDay` using your function definition method of choice:
+**Define a function called `favoriteDay` using your function definition method of choice:**
 
 - It has one parameter that expects a string
 - It use a default argument, `'Saturday'` when no arguments are passed.
   - It allows the default argument to be overridden. 
 - It should return a different string based on what is passed in as an argument. 
-  - If the argument passed in is a weekday (`Monday`, `Tuesday`, `Wednesday`, 
-  `Thursday`, `Friday`), the string should say `"I actually prefer weekdays, specifically ..."` 
-  - If the argument passed in is a weekend (`Saturday`, `Sunday`), the string shoud say
+  - If the argument passed in is a weekday, the string should say `"I actually prefer weekdays, specifically ..."` 
+  - If the argument passed in is a weekend, the string shoud say
   `"Who doesn't love the weekend! I especially love ..."`
   - In both cases, the `...` should be filled in with whatever is passed in as the first
   argument.
